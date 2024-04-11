@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="description" content="Shareco-PARFUMS">
+	<meta name="keywords" content="Shareco">
+	<meta name="image" property="og:image" content="../images/shareco_seo.jpg">
+	<link rel="shortcut icon" type="image/png" href="favicon.png">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Noto+Sans+TC:wght@100;200;300;400;500;600;700;800;900&display=swap"
+		rel="stylesheet">
+	<link rel="stylesheet" href="../css/reset.css">
+	<link rel="stylesheet" href="../css/all.min.css">
+	<link rel="stylesheet" href="../css/aos.css">
+	<title>SHARECO-PARFUMS</title>
+</head>
+
+<body>
+	<div class="wrap">
+		<header id="header" class="header">
+			<h1 class="logo">
+				<a href="home.html"><img src="../images/logo.svg" alt="SHARECO"></a>
+			</h1>
+			<ul class="nav">
+				<li class="nav_item fz18to16" name="nav_item">
+					<span class="nav_item_title">关于 SHARECO</span>
+					<ul class="nav_sec">
+						<li class="nav_sec_item">
+							<a class="nav_sec_link" href="story.html">
+								<span>品牌故事</span>
+							</a>
+						</li>
+						<li class="nav_sec_item">
+							<a class="nav_sec_link" href="spokesman.html">
+								<span>品牌代言人</span>
+							</a>
+						</li>
+						<li class="nav_sec_item">
+							<a class="nav_sec_link" href="gallery.html">
+								<span>Gallery</span>
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li class="nav_item fz18to16" name="nav_item">
+					<span class="nav_item_title">产品列表</span>
+					<ul class="nav_sec">
+						<li class="nav_sec_item">
+							<a class="nav_sec_link" href="product_parfums.html">
+								<span>PARFUMS 香精香水</span>
+							</a>
+						</li>
+						<li class="nav_sec_item">
+							<a class="nav_sec_link" href="product_venus.html">
+								<span>VENUS FLYTRAP 捕蝇草扩香</span>
+							</a>
+						</li>
+						<li class="nav_sec_item">
+							<a class="nav_sec_link" href="product_shower.html">
+								<span>BATHING 洗沐系列</span>
+							</a>
+						</li>
+					</ul>
+				</li>
+
+				<li class="nav_item fz18to16" name="nav_item">
+					<span class="nav_item_title">销售据点</span>
+					<ul class="nav_sec">
+						<li class="nav_sec_item">
+							<a class="nav_sec_link" href="store.html">
+								<span>销售据点</span>
+							</a>
+						</li>
+						<li class="nav_sec_item">
+							<a class="nav_sec_link" href="cooperate.html">
+								<span>全球经销合作</span>
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li class="nav_item show_ph fz18to16" name="nav_item">
+					<a class="nav_item_title" href="contact.html">
+						<span>联络我们</span>
+					</a>
+				</li>
+			</ul>
+			<div id="lang" class="lang">
+				<i class="lang_btn"></i>
+				<!-- 打开在class 加上 on -->
+				<ul id="lang_group" class="lang_group">
+					<li data-lang="zh-tw" class="on">繁中</li>
+					<li data-lang="zh-cn">简中</li>
+					<li data-lang="en-us">EN</li>
+					<li data-lang="ja-jp">日本语</li>
+				</ul>
+			</div>
+			<button id="nav_btn" class="nav_btn">
+				<span class="nav_btn_line"></span>
+			</button>
+		</header>
+		<div class="banner" style="background-image:url('../images/product_parfums/banner.jpg')">
+			<img src="../images/product_parfums/banner.jpg" alt="SHARECO parfums banner">
+		</div>
+		<div class="product _parfums">
+			<div class="product_txt fz26pxto16" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+				<span>香水是传递资讯的潜台词</span>
+				<span>我们的理念是让每款香水创造出</span>
+				<span class="dot">，</span>
+				<span>你心中迷人且无法自拔的记忆</span>
+			</div>
+			<h1 data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">2024 NEW ARRIVAL</h1>
+			<ul class="product_group">
+				<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+					<div class="product_item_head">
+						<h3 class="product_item_name" data-en="BOSS-B*TCH">裸麝香</h3>
+						<div class="product_item_ml fz14to12" data-txt="100ml / 女香"></div>
+					</div>
+					<div class="product_item_pic">
+						<img src="../images/product_parfums/1.png" alt="裸麝香">
+					</div>
+					<ul class="product_item_detail">
+						<li>
+							海洋。孕育生命的起源<br>
+							如鲸鲨的存在 强悍与母性并存<br>
+							温柔撩人的香气 充满成熟的韵味<br>
+						</li>
+						<li>
+							前调 / 柠檬、杜松子、粉红胡椒<br>
+							中调 / 茉莉、铃兰、木兰、伊兰伊兰<br>
+							后调 / 麝香、琥珀、香根草、雪松
+						</li>
+					</ul>
+				</li>
+				<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+					<div class="product_item_head">
+						<h3 class="product_item_name" data-en="BARBERSHOP">麝掠香</h3>
+						<div class="product_item_ml fz14to12" data-txt="100ml / 男香"></div>
+					</div>
+					<div class="product_item_pic">
+						<img src="../images/product_parfums/2.png" alt="麝掠香">
+					</div>
+					<ul class="product_item_detail">
+						<li>
+							在丛林的骚动里 静静窥探<br>
+							清澈、桀骜的琥珀木质香<br>
+							模糊我们的界线<br>
+						</li>
+						<li>
+							前调 / 榄香脂、黑胡椒、粉红胡椒<br>
+							中调 / 玫瑰、小茴香、肉豆蔻、香豆蔻<br>
+							后调 / 琥珀、粉感、雪松、檀香
+						</li>
+					</ul>
+				</li>
+				<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+					<div class="product_item_head">
+						<h3 class="product_item_name" data-en="PSYCHEDELIC-SOUL">迷幻灵魂</h3>
+						<div class="product_item_ml fz14to12" data-txt="100ml / 男香"></div>
+					</div>
+					<div class="product_item_pic">
+						<img src="../images/product_parfums/3.png" alt="迷幻灵魂">
+					</div>
+					<ul class="product_item_detail">
+						<li>
+							浓郁纯净的花草气息<br>
+							是神秘的香味线索<br>
+							走进一段逃离现实的冒险
+						</li>
+						<li>
+							前调 / 莱姆、鼠尾草、迷迭香、佛手柑<br>
+							中调 / 果香、铃兰、小苍兰、茉莉花<br>
+							后调 / 麝香、苔癣、琥珀、香根草
+						</li>
+					</ul>
+				</li>
+				<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+					<div class="product_item_head">
+						<h3 class="product_item_name" data-en="CLASSY-INCENSE">焚香草</h3>
+						<div class="product_item_ml fz14to12" data-txt="100ml / 女香"></div>
+					</div>
+					<div class="product_item_pic">
+						<img src="../images/product_parfums/4.png" alt="焚香草">
+					</div>
+					<ul class="product_item_detail">
+						<li>
+							一呼一吸 触动心跳加速<br>
+							我的香味是 Invitation Code<br>
+							这场萤光派对 你想邀请谁？
+						</li>
+						<li>
+							前调 / 葡萄柚、焚香<br>
+							中调 / 黄葵籽、快乐鼠尾草<br>
+							后调 / 白麝香、香草、零陵香豆、乳香
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<div class="product_pic">
+				<img src="../images/product_parfums/photo_1.jpg" alt="SHARECO Attraction is not a choice">
+				<div class="product_pic_txt fz26to14">
+					Attraction is not a choice<br>
+					吸引力不是一种理性的选择
+				</div>
+			</div>
+			<h1>SHARECO ICONIC</h1>
+			<ul class="product_group">
+				<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+					<div class="product_item_head">
+						<h3 class="product_item_name" data-en="LUCID-DREAMS">清醒梦</h3>
+						<div class="product_item_ml fz14to12" data-txt="100ml / 中性香"></div>
+					</div>
+					<div class="product_item_pic">
+						<img src="../images/product_parfums/5.png" alt="清醒梦">
+					</div>
+					<ul class="product_item_detail">
+						<li>
+							浸入香味打造的幻境乌托邦<br>
+							清新、欢愉、舒适慵懒<br>
+							别叫醒我，梦境才是我的真实
+						</li>
+						<li>
+							前调 / 佛手柑 、莱姆<br>
+							中调 / 铃兰、橙花<br>
+							后调 / 麝香 、木质
+						</li>
+					</ul>
+				</li>
+				<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+					<div class="product_item_head">
+						<h3 class="product_item_name" data-en="PANTHER-PARTY">维吉尼雅麝香</h3>
+						<div class="product_item_ml fz14to12" data-txt="100ml / 男香"></div>
+					</div>
+					<div class="product_item_pic">
+						<img src="../images/product_parfums/6.png" alt="维吉尼雅麝香">
+					</div>
+					<ul class="product_item_detail">
+						<li>
+							霸道的控制狂<br>
+							穿上厚重木质烟熏气息<br>
+							只要妳愿意臣服<br>
+							就会感觉到无比的安全感
+						</li>
+						<li>
+							前调 / 苦葡萄柚 、佛手柑 <br>
+							中调 / 维吉尼亚雪松 、大麻 、琥珀<br>
+							后调 / 广藿香 、檀香 、黑胡椒 、橡苔
+						</li>
+					</ul>
+				</li>
+				<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+					<div class="product_item_head">
+						<h3 class="product_item_name" data-en="KINDA-BOUJEE">大麻麝香</h3>
+						<div class="product_item_ml fz14to12" data-txt="100ml / 男香"></div>
+					</div>
+					<div class="product_item_pic">
+						<img src="../images/product_parfums/7.png" alt="大麻麝香">
+					</div>
+					<ul class="product_item_detail">
+						<li>
+							柑橘香气拉开丛林的序幕<br>
+							野性的菸草香弥漫在空气中<br>
+							王者准备凯旋归来
+						</li>
+						<li>
+							前调 / 佛手柑、黑胡椒、柑橘 <br>
+							中调 / 大麻、铃兰、木兰<br>
+							后调 / 雪松、广藿香、檀香
+						</li>
+					</ul>
+				</li>
+				<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+					<div class="product_item_head">
+						<h3 class="product_item_name" data-en="ENERGY-MUSK">能量麝香</h3>
+						<div class="product_item_ml _no fz14to12" data-txt="100ml / 男香" data-no="销售NO.1"></div>
+					</div>
+					<div class="product_item_pic">
+						<img src="../images/product_parfums/8.png" alt="能量麝香">
+					</div>
+					<ul class="product_item_detail">
+						<li>
+							冒险就在惬意的草木香中展开<br>
+							随晨曦揭开麝香的清新活力<br>
+							为绅士带来沈稳的优雅
+						</li>
+						<li>
+							前调 / 铃兰、雪松、苹果<br>
+							中调 / 杜鹃、柑橘、香草<br>
+							后调 / 麝香、檀香
+						</li>
+					</ul>
+				</li>
+				<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+					<div class="product_item_head">
+						<h3 class="product_item_name" data-en="VENUS-FLYTRAP">捕蝇草</h3>
+						<div class="product_item_ml fz14to12" data-txt="100ml / 男香" data-no="销售NO.3"></div>
+					</div>
+					<div class="product_item_pic">
+						<img src="../images/product_parfums/9.png" alt="捕蝇草">
+					</div>
+					<ul class="product_item_detail">
+						<li>
+							精心布置的伊甸园<br>
+							默默散发诱惑的甜沁气息<br>
+							静待猎物、被动比主动更有侵略性
+						</li>
+						<li>
+							前调 / 佛手柑、黑胡椒<br>
+							中调 / 粉红胡椒、薰衣草、榄香脂<br>
+							后调 / 广藿香、雪松、劳丹脂
+						</li>
+					</ul>
+				</li>
+				<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+					<div class="product_item_head">
+						<h3 class="product_item_name" data-en="MIRACLE-POPPY">奇迹罂粟</h3>
+						<div class="product_item_ml fz14to12" data-txt="100ml / 男香" data-no="销售NO.3"></div>
+					</div>
+					<div class="product_item_pic">
+						<img src="../images/product_parfums/10.png" alt="奇迹罂粟">
+					</div>
+					<ul class="product_item_detail">
+						<li>
+							圣坛上三花齐放的赞美歌<br>
+							伴随令人成瘾的安定与和平<br>
+							是最奢侈的享受
+						</li>
+						<li>
+							前调 / 柠檬、佛手柑、梨子<br>
+							中调 / 茉莉、铃兰、玫瑰<br>
+							后调 / 麝香、鸢尾花、橡木
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<div id="product_overflow" class="product_overflow">
+				<ul id="product_group" class="product_group _swip">
+					<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+						<div class="product_item_head">
+							<h3 class="product_item_name" data-en="BLACK - WATER">黑水香树</h3>
+							<div class="product_item_ml fz14to12" data-txt="100ml / 中性香" data-no="销售NO.3"></div>
+						</div>
+						<div class="product_item_pic">
+							<img src="../images/product_parfums/11.png" alt="黑水香树">
+						</div>
+						<ul class="product_item_detail">
+							<li>
+								木质酸甜的香气、作为掩护<br>
+								迷惑了感官、让人卸下防备
+							</li>
+							<li>
+								前调 / 花椒 、葡萄柚<br>
+								中调 / 薰衣草 、铃兰<br>
+								后调 / 麝香 、零陵香豆 、愈创木
+							</li>
+						</ul>
+					</li>
+					<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+						<div class="product_item_head">
+							<h3 class="product_item_name" data-en="GIZA-LYNX">琥珀檀香</h3>
+							<div class="product_item_ml _no fz14to12" data-txt="100ml / 中性香" data-no="销售NO.2"></div>
+						</div>
+						<div class="product_item_pic">
+							<img src="../images/product_parfums/12.png" alt="琥珀檀香">
+						</div>
+						<ul class="product_item_detail">
+							<li>
+								时而高傲冷漠<br>
+								时而温软柔软<br>
+								无法被驯化侵略性浪漫<br>
+								让人无法招架
+							</li>
+							<li>
+								前调 / 天竺葵 、佛手柑<br>
+								中调 / 番红花 、乳香 、紫罗兰叶<br>
+								后调 / 琥珀 、檀香 、灵猫香
+							</li>
+						</ul>
+					</li>
+					<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+						<div class="product_item_head">
+							<h3 class="product_item_name" data-en="ROYAL-OAK">皇家橡树</h3>
+							<div class="product_item_ml fz14to12" data-txt="100ml / 男香" data-no="销售NO.2"></div>
+						</div>
+						<div class="product_item_pic">
+							<img src="../images/product_parfums/13.png" alt="皇家橡树">
+						</div>
+						<ul class="product_item_detail">
+							<li>
+								不凡自信<br>
+								在贵族檀香中诞生<br>
+								融合海岛植物与果实的香气<br>
+								散发皇室魅力
+							</li>
+							<li>
+								前调 / 莱姆、柑橘、佛手柑<br>
+								中调 / 茉莉、百合、豆蔻果实<br>
+								后调 / 橡苔、檀香、麝香
+							</li>
+						</ul>
+					</li>
+					<li class="product_item" data-aos="fade-up" name="aos" data-aos-easing="ease-in-sine">
+						<div class="product_item_head">
+							<h3 class="product_item_name" data-en="LOW-KEYYY">琥珀莱姆</h3>
+							<div class="product_item_ml _no fz14to12" data-txt="100ml / 女香" data-no="最难驾驭女香"></div>
+						</div>
+						<div class="product_item_pic">
+							<img src="../images/product_parfums/14.png" alt="琥珀莱姆">
+						</div>
+						<ul class="product_item_detail">
+							<li>
+								微辛甜气唤醒夜的感官<br>
+								莱姆酒香交织慵懒的雪松气息<br>
+								跳一支不想散场的舞
+							</li>
+							<li>
+								前调 / 香草、莱姆酒<br>
+								中调 / 肉桂、麝香、杏仁<br>
+								后调 / 琥珀、广藿香、雪松
+							</li>
+						</ul>
+					</li>
+				</ul>
+				<i id="product_prev" class="icon_prev"></i>
+				<i id="product_next" class="icon_next"></i>
+
+
+				<ul id="product_dots" class="normal_dots">
+					<!-- <li class="bannerSwiper_dots_item on"></li>
+							<li class="bannerSwiper_dots_item"></li> -->
+				</ul>
+			</div>
+
+		</div>
+		<footer class="footer">
+			<div class="footer_box">
+				<ul class="footer_nav">
+					<li class="footer_nav_item fz14to12">品牌故事</li>
+					<li class="footer_nav_item fz14to12"><a class="footer_nav_title" href="contact.html">联络我们</a></li>
+
+					<li class="footer_nav_item fz14to12"><a class="footer_nav_title" href="rule.html">商标及应用准则</a></li>
+					<li class="footer_nav_item fz14to12"><a class="footer_nav_title" href="usually.html">常用连结</a></li>
+					<li class="footer_nav_item fz14to12"><a class="footer_nav_title" href="privacy.html">隐私权与政策</a></li>
+				</ul>
+				<ul class="footer_link">
+					<li class="footer_link_icon _fb">
+						<a href="https://www.facebook.com/Share.co.tw" target="_blank"></a>
+					</li>
+					<li class="footer_link_icon _ig">
+						<a href="https://www.instagram.com/share.co.design/" target="_blank"></a>
+					</li>
+				</ul>
+				<p class="copyRight">Copyright © 2023 SHARECO | All Rights Reserved</p>
+			</div>
+		</footer>
+	</div>
+
+	<script src="../js/module.js"></script>
+	<script src="../js/aos.js"></script>
+	<script src="../js/product.js"></script>
+	<script>
+		AOS.init();
+	</script>
+</body>
+
+</html>
