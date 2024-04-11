@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+    <div id="player"></div>
+    <div id="YouTubeVideoPlayerAPI"></div>
+    <button id="open">開聲音</button>
+    <button id="close">暫停</button>
+    <script>
+        var open = document.querySelector("#open");
+        var close = document.querySelector("#close");
+        // 2. This code loads the IFrame Player API code asynchronously.
+        var tag = document.createElement('script');
+        tag.src = "https://www.youtube.com/iframe_api";
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+        // 3. This function creates an <iframe> (and YouTube player)
+        //    after the API code downloads.
+        var player;
+
+        function onYouTubeIframeAPIReady() {
+            console.log('??????');
+
+            player = new YT.Player('player', {
+                height: '390',
+                width: '640',
+                videoId: '3xuF-cCZEWc',
+                playerVars: {
+                    'playlist': '3xuF-cCZEWc',
+                    autoplay: 1,            // 自動播放影片
+                    controls: 0,            // 顯示播放器
+                    showinfo: 0,            // 隱藏影片標題
+                    modestbranding: 0,      // 隱藏YouTube Logo
+                    loop: 1,                // 重覆播放
+                    fs: 0,                  // 隱藏全螢幕按鈕
+                    cc_load_policty: 0,     // 隱藏字幕
+                    iv_load_policy: 3,      // 隱藏影片註解
+                    autohide: 0             // 影片播放時，隱藏影片控制列
+                },
+                events: {
+                    'onReady': onPlayerReady,
+                    'onStateChange': onPlayerStateChange
+                }
+            });
+        }
+
+        // 4. The API will call this function when the video player is ready.
+        function onPlayerReady(event) {
+            event.target.playVideo();
+            event.target.setVolume(0);
+            event.target.playVideo();
+            event.target.setLoop(true);
+        }
+
+        // close.onclick = function () {
+        //     player.unMute();
+        // }
+        // open.onclick = function () {
+        //     player.unMute();
+        // }
+        open.onclick = function (event) {
+            player.setVolume(100)
+            // onYouTubeIframeAPIReady()
+        }
+        // 5. The API calls this function when the player's state changes.
+        //    The function indicates that when playing a video (state=1),
+        //    the player should play for six seconds and then stop.
+        var done = false;
+
+        function onPlayerStateChange(event) {
+            event.target.setLoop(true);
+            // if (event.data == YT.PlayerState.PLAYING && !done) {
+            //     setTimeout(stopVideo, 6000);
+            //     done = true;
+            // }
+        }
+
+        function stopVideo() {
+            player.stopVideo();
+
+        }
+        function onYouTubeIframeAPIReady() {
+            var player;
+            player = new YT.Player('YouTubeVideoPlayerAPI', {
+                videoId: 'rshfNb2ped8',   // YouTube 影片ID
+                width: '1080',            // 播放器寬度 (px)
+                height: '720',           // 播放器高度 (px)
+                playerVars: {
+                    autoplay: 1,            // 自動播放影片
+                    controls: 0,            // 顯示播放器
+                    showinfo: 0,            // 隱藏影片標題
+                    modestbranding: 0,      // 隱藏YouTube Logo
+                    loop: 1,                // 重覆播放
+                    playlist: 'rshfNb2ped8', // 當使用影片要重覆播放時，需再輸入YouTube 影片ID
+                    fs: 0,                  // 隱藏全螢幕按鈕
+                    cc_load_policty: 0,     // 隱藏字幕
+                    iv_load_policy: 3,      // 隱藏影片註解
+                    autohide: 0             // 影片播放時，隱藏影片控制列
+                },
+                events: {
+                    onReady: function (e) {
+                        e.target.mute();      //播放時靜音
+                        e.target.playVideo(); //強制播放(手機才會自動播放，但僅限於Android)
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>

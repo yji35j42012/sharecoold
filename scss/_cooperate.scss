@@ -1,0 +1,17 @@
+.cooperate {
+	padding: 83px 0 132px;
+	text-align: center;
+	@include mw(L) {
+		padding: 40px 46px 86px;
+	}
+	// .cooperate_txt
+	&_txt {
+		max-width: 888px;
+		margin: 0 auto 59px;
+        color: #595959;
+		line-height: 160%;
+        @include mw(L) {
+            margin-bottom: 30px;
+        }
+	}
+}

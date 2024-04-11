@@ -1,0 +1,626 @@
+store.html(繁)
+
+------------------------------------------------------------------------
+刪除
+<div class="store_grid">
+	<div class="store_grid_item">a1shopee</div>
+	<div class="store_grid_item">+852 5689 5208</div>
+	<div class="store_grid_item">香港旺角先達廣場1樓F72店</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://www.google.com/maps/place/%E5%85%88%E9%81%94%E5%BB%A3%E5%A0%B4/@22.3197069,114.1705662,21z/data=!4m6!3m5!1s0x340401b313f3ea2d:0x342e27364e4e32b5!8m2!3d22.319772!4d114.170754!16s%2Fg%2F11kpzc0bbm?entry=ttu">MAP</a>
+	</div>
+</div>
+------------------------------------------------------------------------
+新增
+<div class="store_grid">
+	<div class="store_grid_item">The Barrack Shop</div>
+	<div class="store_grid_item"></div>
+	<div class="store_grid_item">710 Geylang Road. TheBarrackShop</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/cXXrzJDLSmpzCwgWA">MAP</a>
+	</div>
+</div>
+
+
+------------------------------------------------------------------------
+刪除
+<div class="store_grid">
+	<div class="store_grid_item">Pavilion Bukit Jalil - HaWooo Store</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">No 2 Persiaran Jalil Utama, Bandar Bukit Jalil,
+							Kuala Lumpur</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank"
+								href="https://www.google.com/maps/place/HaWooo+Store/@3.052567,101.6674995,17z/data=!3m2!4b1!5s0x31cc4add2262e65b:0x2df3ba0adadd2348!4m6!3m5!1s0x31cc4b7b43e4160d:0xe83244244c6a73bc!8m2!3d3.052567!4d101.6700744!16s%2Fg%2F11s3_sp1dd?entry=ttu">MAP</a>
+	</div>
+</div>
+
+------------------------------------------------------------------------
+新增
+<div class="store_grid">
+	<div class="store_grid_item">Julyana Scent Studio</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">BLOCK E-2-6 PLAZA ARKADIA NO.3, JALAN INTISARI PERDANA,
+							DESA PARKCITY, 52200 KUALA LUMPUR.
+	</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/HCv4n622d26Yn8bZ9">MAP</a>
+	</div>
+</div>
+<div class="store_grid">
+	<div class="store_grid_item">SUN BARBERSHOP</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">NO.27-01,jalan Austin heights 7/5 Austin Heights Taman Mount Austin,
+							Mount Austin, 81100 Johor Bahru, Johor
+	</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/abfTshcjgwU8qJvs7">MAP</a>
+	</div>
+</div>
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+
+
+store.html(簡)
+
+------------------------------------------------------------------------
+刪除
+<div class="store_grid">
+	<div class="store_grid_item">a1shopee</div>
+	<div class="store_grid_item">+852 5689 5208</div>
+	<div class="store_grid_item">香港旺角先达广场1楼F72店</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://www.google.com/maps/place/%E5%85%88%E9%81%94%E5%BB%A3%E5%A0%B4/@22.3197069,114.1705662,21z/data=!4m6!3m5!1s0x340401b313f3ea2d:0x342e27364e4e32b5!8m2!3d22.319772!4d114.170754!16s%2Fg%2F11kpzc0bbm?entry=ttu">MAP</a>
+	</div>
+</div>
+------------------------------------------------------------------------
+新增
+<div class="store_grid">
+	<div class="store_grid_item">The Barrack Shop</div>
+	<div class="store_grid_item"></div>
+	<div class="store_grid_item">710 Geylang Road. TheBarrackShop</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/cXXrzJDLSmpzCwgWA">MAP</a>
+	</div>
+</div>
+
+
+------------------------------------------------------------------------
+刪除
+<div class="store_grid">
+	<div class="store_grid_item">Pavilion Bukit Jalil - HaWooo Store</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">No 2 Persiaran Jalil Utama, Bandar Bukit Jalil,
+							Kuala Lumpur</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank"
+								href="https://www.google.com/maps/place/HaWooo+Store/@3.052567,101.6674995,17z/data=!3m2!4b1!5s0x31cc4add2262e65b:0x2df3ba0adadd2348!4m6!3m5!1s0x31cc4b7b43e4160d:0xe83244244c6a73bc!8m2!3d3.052567!4d101.6700744!16s%2Fg%2F11s3_sp1dd?entry=ttu">MAP</a>
+	</div>
+</div>
+
+------------------------------------------------------------------------
+新增
+<div class="store_grid">
+	<div class="store_grid_item">Julyana Scent Studio</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">BLOCK E-2-6 PLAZA ARKADIA NO.3, JALAN INTISARI PERDANA,
+							DESA PARKCITY, 52200 KUALA LUMPUR.
+	</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/HCv4n622d26Yn8bZ9">MAP</a>
+	</div>
+</div>
+<div class="store_grid">
+	<div class="store_grid_item">SUN BARBERSHOP</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">NO.27-01,jalan Austin heights 7/5 Austin Heights Taman Mount Austin,
+							Mount Austin, 81100 Johor Bahru, Johor
+	</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/abfTshcjgwU8qJvs7">MAP</a>
+	</div>
+</div>
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+
+store.html(英)
+
+------------------------------------------------------------------------
+
+<div class="store_info_title">Bonny & Read（經銷門市）</div>
+改
+<div class="store_info_title">Bonny & Read（經銷門市）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台北統一時代百貨</div>
+改
+<div class="store_grid_item">Uni-President Department Store</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台北市信義區忠孝東路五段8號B1F</div>
+改
+<div class="store_grid_item">B1F., No. 8, Sec. 5, Zhongxiao E. Rd., Xinyi Dist., Taipei City , Taiwan (R.O.C.)</div>
+
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台北南港CITYLINK</div>
+改
+<div class="store_grid_item">CITYLINK</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台北市南港區忠孝東路七段369號B棟2F</div>
+改
+<div class="store_grid_item">2F., No. 369, Sec. 7, Zhongxiao E. Rd., Nangang Dist., Taipei City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">中和環球購物中心</div>
+改
+<div class="store_grid_item">Global Mall</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">新北市中和區中山路三段122號2F</div>
+改
+<div class="store_grid_item">2F., No. 122, Sec. 3, Zhongshan Rd., Zhonghe Dist., New Taipei City , Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">新北宏匯廣場</div>
+改
+<div class="store_grid_item">HONHUI PLAZA</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">新北市新莊區新北大道四段3號3F</div>
+改
+<div class="store_grid_item">3F., No. 3, Sec. 4, New Taipei Blvd., Xinzhuang Dist., New Taipei City , Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">新北樹林秀泰</div>
+改
+<div class="store_grid_item">Showtime Live Shulin Store</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">新北市樹林區樹新路40-6號2F</div>
+改
+<div class="store_grid_item">2F., No. 40-6, Shuxin Rd., Shulin Dist., New Taipei City , Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">桃園台茂購物中心</div>
+改
+<div class="store_grid_item">TaiMall</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">桃園市蘆竹區南崁路一段112號B2F</div>
+改
+<div class="store_grid_item">B2., No. 112, Sec. 1, Nankan Rd., Luzhu Dist., Taoyuan City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台中大魯閣新時代</div>
+改
+<div class="store_grid_item">TAROKO MALL</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台中市東區復興路四段186號6F</div>
+改
+<div class="store_grid_item">6F., No. 186, Luqiaoxiaxi, Sec. 4, Fuxing Rd., Taichung City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台中大遠百</div>
+改
+<div class="store_grid_item">Top City</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台中市西屯區臺灣大道三段251號10F</div>
+改
+<div class="store_grid_item">10F., No. 251, Sec. 3, Taiwan Blvd., Xitun Dist., Taichung City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台中一中商圈</div>
+改
+<div class="store_grid_item">Yizhong Shopping District</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台中市北區太平路44號</div>
+改
+<div class="store_grid_item">No. 44, Taiping Rd., North Dist., Taichung City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">嘉義秀泰百貨</div>
+改
+<div class="store_grid_item">Showtime Life Chiayi</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">嘉義市西區文化路299號2F</div>
+改
+<div class="store_grid_item">2F., No. 299, Wenhua Rd., West Dist., Chiayi City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台南新光三越小西門</div>
+改
+<div class="store_grid_item">Shinkong Mitsukoshi Mall (Tainan Place)</div>
+
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台南市中西區西門路一段658-1號1F</div>
+改
+<div class="store_grid_item">1F., No. 658-1, Sec. 1, Ximen Rd., West Central Dist., Tainan City , Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄左營新光三越</div>
+改
+<div class="store_grid_item">Shinkong Mitsukoshi Mall (Zuoying)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄市左營區高鐵路115號3F</div>
+改
+<div class="store_grid_item">3F., No. 115, Gaotie Rd., Zuoying Dist., Kaohsiung City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄新崛江</div>
+改
+<div class="store_grid_item">Shinkuchan</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄市新興區新田路130號</div>
+改
+<div class="store_grid_item">No. 130, Xintian Rd., Xinxing Dist., Kaohsiung City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄岡山樂購廣場</div>
+改
+<div class="store_grid_item">Lovego Plaza</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄市岡山區捷安路1巷2號1F</div>
+改
+<div class="store_grid_item">1F., No. 2, Ln. 1, Jie'an Rd., Gangshan Dist., Kaohsiung City , Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_info_title">新高橋（經銷門市）</div>
+改
+<div class="store_info_title">BRIDGE DRUG（distributor store）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">BG Gold Natural 遠百竹北</div>
+改
+<div class="store_grid_item">BG Gold Natural (Top City Zhubei )</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">新竹縣竹北市莊敬北路18號2F</div>
+改
+<div class="store_grid_item">2F., No. 18, Zhuangjing N. Rd., Zhubei City, Hsinchu County , Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">夢時代店</div>
+改
+<div class="store_grid_item">BRIDGE DRUG （Dream Mall）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄市前鎮區中華五路789號 B2綠區</div>
+改
+<div class="store_grid_item">B2., No. 789, Zhonghua 5th Rd., Qianzhen Dist., Kaohsiung City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">土庫店</div>
+改
+<div class="store_grid_item">BRIDGE DRUG （ Tuku）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄市楠梓區土庫路188號</div>
+改
+<div class="store_grid_item">No. 188, Tuku Rd., Nanzi Dist., Kaohsiung City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">八德中店</div>
+改
+<div class="store_grid_item">BRIDGE DRUG （ Bade Central）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄市仁武區八德中路88號</div>
+改
+<div class="store_grid_item">No. 88, Bade Central Rd., Renwu Dist., Kaohsiung City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">藍昌店</div>
+改
+<div class="store_grid_item">BRIDGE DRUG （ Lanchang）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄市楠梓區藍昌路387號</div>
+改
+<div class="store_grid_item">No. 387, Lanchang Rd., Nanzi Dist., Kaohsiung City , Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_info_title">金橘眼鏡（經銷門市）</div>
+改
+<div class="store_info_title">Jinju eyewear（distributor store）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台中大墩門市</div>
+改
+<div class="store_grid_item">Jinju eyewear （ Dadun）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">台中市南屯區大墩路829號</div>
+改
+<div class="store_grid_item">No. 829, Dadun Rd., Xitun Dist., Taichung City , Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄建國門市</div>
+改
+<div class="store_grid_item">Jinju eyewear （ Jianguo）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">高雄市苓雅區建國一路300號</div>
+改
+<div class="store_grid_item">No. 300, Jianguo 1st Rd., Lingya Dist., Kaohsiung City, Taiwan (R.O.C.)</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">Cheung Leung Kee - Tsuen Wan Citywalk Store</div>
+改
+<div class="store_grid_item">cheung leung kee （ Tsuen Wan）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">Citywalk, Tsuen Wan (Shop UG52B, UG/F)</div>
+改
+<div class="store_grid_item">Citywalk, Tsuen Wan,Shop UG52B, UG/F</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">Cheung Leung Kee - Tsim Sha Tsui Mira Store</div>
+改
+<div class="store_grid_item">cheung leung kee （ Tsim Sha Tsui Mira Store）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">132 Nathan Road, Tsim Sha Tsui (G06 Shop G06, Mira Place 1)</div>
+改
+<div class="store_grid_item">Nathan Road, Tsim Sha Tsui,Shop G06, Mira Place 1</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">Cheung Leung Kee -Mong Kok 618 Shanghai Street Store</div>
+改
+<div class="store_grid_item">cheung leung kee （ Mong Kok 618 Shanghai Street Store）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">香港旺角上海街618號 (1樓102A舖)</div>
+改
+<div class="store_grid_item">618 Shanghai Street, Mong Kok, Shop 102A, 1/F</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">張梁記 銅鑼灣希慎店</div>
+改
+<div class="store_grid_item">cheung leung kee （Causeway Bay Hysan Store）</div>
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">Hysan Place, 500 Hennessy Road, Causeway Bay (Shop 501, 5/F)</div>
+改
+<div class="store_grid_item">Hysan Place, 500 Hennessy Road, Causeway Bay,Shop 501, 5/F</div>
+
+------------------------------------------------------------------------
+
+刪除
+<div class="store_grid">
+	<div class="store_grid_item">a1shopee</div>
+	<div class="store_grid_item">+852 5689 5208</div>
+	<div class="store_grid_item">香港旺角先達廣場1樓F72店</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://www.google.com/maps/place/%E5%85%88%E9%81%94%E5%BB%A3%E5%A0%B4/@22.3197069,114.1705662,21z/data=!4m6!3m5!1s0x340401b313f3ea2d:0x342e27364e4e32b5!8m2!3d22.319772!4d114.170754!16s%2Fg%2F11kpzc0bbm?entry=ttu">MAP</a>
+	</div>
+</div>
+
+------------------------------------------------------------------------
+新增
+<div class="store_grid">
+	<div class="store_grid_item">The Barrack Shop</div>
+	<div class="store_grid_item"></div>
+	<div class="store_grid_item">710 Geylang Road. TheBarrackShop</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/cXXrzJDLSmpzCwgWA">MAP</a>
+	</div>
+</div>
+
+
+------------------------------------------------------------------------
+
+<div class="store_grid_item">Eco Palladium, Block B #01-20 Jalan Ekoflora 7/2, Jalan Ekoflora Utama, 81100 , Johor.</div>
+改
+<div class="store_grid_item">Eco Palladium, Block B #01-20 Jalan Ekoflora 7/2, Jalan Ekoflora
+							Utama, 81100 , Johor.</div>
+
+------------------------------------------------------------------------
+刪除
+<div class="store_grid">
+	<div class="store_grid_item">Pavilion Bukit Jalil - HaWooo Store</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">No 2 Persiaran Jalil Utama, Bandar Bukit Jalil,
+							Kuala Lumpur</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank"
+								href="https://www.google.com/maps/place/HaWooo+Store/@3.052567,101.6674995,17z/data=!3m2!4b1!5s0x31cc4add2262e65b:0x2df3ba0adadd2348!4m6!3m5!1s0x31cc4b7b43e4160d:0xe83244244c6a73bc!8m2!3d3.052567!4d101.6700744!16s%2Fg%2F11s3_sp1dd?entry=ttu">MAP</a>
+	</div>
+</div>
+------------------------------------------------------------------------
+新增
+<div class="store_grid">
+	<div class="store_grid_item">Julyana Scent Studio</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">BLOCK E-2-6 PLAZA ARKADIA NO.3, JALAN INTISARI PERDANA,
+							DESA PARKCITY, 52200 KUALA LUMPUR.
+	</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/HCv4n622d26Yn8bZ9">MAP</a>
+	</div>
+</div>
+<div class="store_grid">
+	<div class="store_grid_item">SUN BARBERSHOP</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">NO.27-01,jalan Austin heights 7/5 Austin Heights Taman Mount Austin,
+							Mount Austin, 81100 Johor Bahru, Johor
+	</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/abfTshcjgwU8qJvs7">MAP</a>
+	</div>
+</div>
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+
+
+store.html(日)
+
+
+
+------------------------------------------------------------------------
+刪除
+<div class="store_grid">
+	<div class="store_grid_item">a1shopee</div>
+	<div class="store_grid_item">+852 5689 5208</div>
+	<div class="store_grid_item">香港旺角先達廣場1樓F72店</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://www.google.com/maps/place/%E5%85%88%E9%81%94%E5%BB%A3%E5%A0%B4/@22.3197069,114.1705662,21z/data=!4m6!3m5!1s0x340401b313f3ea2d:0x342e27364e4e32b5!8m2!3d22.319772!4d114.170754!16s%2Fg%2F11kpzc0bbm?entry=ttu">MAP</a>
+	</div>
+</div>
+------------------------------------------------------------------------
+新增
+<div class="store_grid">
+	<div class="store_grid_item">The Barrack Shop</div>
+	<div class="store_grid_item"></div>
+	<div class="store_grid_item">710 Geylang Road. TheBarrackShop</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/cXXrzJDLSmpzCwgWA">MAP</a>
+	</div>
+</div>
+
+
+------------------------------------------------------------------------
+刪除
+<div class="store_grid">
+	<div class="store_grid_item">Pavilion Bukit Jalil - HaWooo Store</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">No 2 Persiaran Jalil Utama, Bandar Bukit Jalil,
+							Kuala Lumpur</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank"
+								href="https://www.google.com/maps/place/HaWooo+Store/@3.052567,101.6674995,17z/data=!3m2!4b1!5s0x31cc4add2262e65b:0x2df3ba0adadd2348!4m6!3m5!1s0x31cc4b7b43e4160d:0xe83244244c6a73bc!8m2!3d3.052567!4d101.6700744!16s%2Fg%2F11s3_sp1dd?entry=ttu">MAP</a>
+	</div>
+</div>
+------------------------------------------------------------------------
+新增
+<div class="store_grid">
+	<div class="store_grid_item">Julyana Scent Studio</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">BLOCK E-2-6 PLAZA ARKADIA NO.3, JALAN INTISARI PERDANA,
+							DESA PARKCITY, 52200 KUALA LUMPUR.
+	</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/HCv4n622d26Yn8bZ9">MAP</a>
+	</div>
+</div>
+<div class="store_grid">
+	<div class="store_grid_item">SUN BARBERSHOP</div>
+	<div class="store_grid_item">-</div>
+	<div class="store_grid_item">NO.27-01,jalan Austin heights 7/5 Austin Heights Taman Mount Austin,
+							Mount Austin, 81100 Johor Bahru, Johor
+	</div>
+	<div class="store_grid_item">
+		<a class="border_btn" target="_blank" href="https://maps.app.goo.gl/abfTshcjgwU8qJvs7">MAP</a>
+	</div>
+</div>
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+

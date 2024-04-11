@@ -1,0 +1,113 @@
+.usually {
+	padding: 40px 26px 58px;
+	background: url("../images/usually/background.png") no-repeat center 25% /
+		contain;
+
+	// .usually_btn
+	&_btn {
+		display: block;
+		width: 100%;
+		height: 65px;
+		line-height: 65px;
+		border-radius: 4px;
+		border: 0.5px solid #333;
+		background-color: rgba(255, 255, 255, 0.7);
+		backdrop-filter: blur(1px);
+		color: #333;
+		text-align: center;
+		font-size: 20px;
+		font-style: normal;
+		font-weight: 600;
+		& + & {
+			margin-top: 24px;
+		}
+		& + .gallery_photo {
+			margin-top: 40px;
+		}
+		.usually_sel + & {
+			margin-top: 30px;
+		}
+		&:after {
+			content: attr(data-msg);
+		}
+	}
+	// .usually_sel
+	&_sel {
+		z-index: 10;
+		position: relative;
+		display: block;
+		width: 100%;
+		height: 60px;
+		margin-top: 30px;
+		border-radius: 4px;
+		border: 2px solid #fff;
+		background: rgba(223, 223, 223, 0.6);
+		backdrop-filter: blur(3px);
+		&::after {
+			content: "";
+			position: absolute;
+			right: 40px;
+			top: 0;
+			bottom: 0;
+			display: block;
+			width: 8px;
+			height: 13px;
+			margin: auto 0;
+			background: url("../images/icon/icon_arr_down.svg") no-repeat
+				center/contain;
+			@include mw(L) {
+				right: 24px;
+			}
+		}
+		// .usually_sel_txt
+		&_txt {
+			display: block;
+			width: 100%;
+			height: 100%;
+			color: #333;
+			text-align: center;
+			font-size: 18px;
+			font-weight: 600;
+			line-height: 60px;
+		}
+		// .usually_sel_group
+		&_group {
+			position: absolute;
+			display: none;
+			top: calc(100% + 25px);
+			width: 100%;
+			&::before {
+				position: absolute;
+				top: -5px;
+				left: 0;
+				right: 0;
+				content: "";
+				width: 53px;
+				height: 53px;
+				margin: auto;
+				background-color: #fff;
+				transform: rotate(45deg);
+				// @include mw(L) {
+				// 	display: none;
+				// }
+			}
+			&.on {
+				display: block;
+			}
+		}
+		// .usually_sel_item
+		&_item {
+			position: relative;
+			display: block;
+			width: 100%;
+			padding: 20px 0;
+			background-color: #f9f9f9;
+			text-align: center;
+
+			&.on {
+				color: #a4a4a4;
+				pointer-events: none;
+			}
+		}
+	}
+}

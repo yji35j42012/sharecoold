@@ -1,0 +1,81 @@
+.privacy {
+	padding: 50px 32px 0;
+	background: url("../images/privacy/background.png") no-repeat center top /
+			contain,
+		#171717;
+
+	// .privacy_box
+	&_box {
+		width: 100%;
+		max-width: 1278px;
+		margin: auto;
+		padding: 78px 97px 92px;
+		border-radius: 8px;
+		background: #fff;
+		box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+		text-align: center;
+		@include mw(L) {
+			max-width: 500px;
+			padding: 25px 10px 86px;
+		}
+	}
+	// .privacy_title
+	&_title {
+		display: inline-block;
+		margin-bottom: 67px;
+		padding: 0 26px 12px;
+		color: #333;
+		font-size: 42px;
+		font-weight: 600;
+		border-bottom: 10px solid #d9d9d9;
+		@include mw(L) {
+			margin-bottom: 18px;
+			padding: 0 18px 6px;
+			font-size: 20px;
+			border-width: 6px;
+		}
+	}
+	// .privacy_p
+	&_p {
+		color: #333;
+		font-size: 24px;
+		font-weight: 400;
+		line-height: 160%;
+		text-align: left;
+		@include mw(L) {
+			font-size: 14px;
+		}
+	}
+	// .privacy_group
+	&_group {
+		margin-top: 70px;
+		@include mw(L) {
+			margin-top: 44px;
+		}
+		// .privacy_group_title
+		&_title {
+			margin-bottom: 18px;
+			color: #333;
+			font-size: 30px;
+			font-weight: 700;
+			line-height: 160%;
+			text-align: left;
+			@include mw(L) {
+				margin-bottom: 6px;
+				font-size: 18px;
+				text-align: center;
+			}
+		}
+		// .privacy_group_item
+		&_item {
+			color: #333;
+			font-size: 24px;
+			font-weight: 400;
+			line-height: 160%;
+			text-align: left;
+			@include mw(L) {
+				font-size: 14px;
+			}
+		}
+	}
+}
